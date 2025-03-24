@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/4b8d0afd-3ad5-4474-ab76-d01cb403c0f7)# 📦 Warehouse Management System (Draxlmaier Internship)
 
 ## 📌 Project Overview
 During my internship at Draxlmaier, I developed a **Warehouse Management System** in Java to enhance inventory tracking and reduce errors.
