@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/e8829af9-18d8-4e24-8057-64d542b52b9e)
 ## 📌 Project Overview
 During my internship at Draxlmaier, I developed a **Warehouse Management System** in Java to enhance inventory tracking and reduce errors.
 The system processes over **10,000 transactions per month** and has improved efficiency by **30%**.
