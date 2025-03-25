@@ -22,30 +22,4 @@ The system processes over **10,000 transactions per month** and has improved eff
 cat <<EOF >> README.md
 ## 📂 Repository Structure
 
-\`\`\`
-📁 01_warehouse_management_app/  # Dossier principal du projet
-│── 📁 src/  # Code source Java
-│   │── AdminInterface.java  # Interface admin
-│   │── LoginInterface.java  # Interface de connexion
-│   │── NavigationOptionsInterface.java  # Menu de navigation
-│   │── ProductList.java  # Gestion des produits
-│   │── StockOverview.java  # Vue d’ensemble du stock
-│   │── UserInterface.java  # Interface utilisateur
-│   │── UserListInterface.java  # Gestion des utilisateurs
-│   │── UserSignUpInterface.java  # Inscription utilisateurs
-│── 📁 resources/  # Base de données et fichiers externes
-│   │── schema.sql  # Script SQL pour créer la base de données
-│   │── StockOverview_20240416.csv  # Fichier de données exemple
-│   │── StockOverview_20240417.csv  # Fichier de données exemple
-│── 📁 images/  # Screenshots et icônes
-│   │── DraxLogo.png
-│   │── addproduct.png
-│   │── stock.png
-│── 📁 docs/  # Documentation et rapport
-│   │── report.pdf  # Rapport de stage
-│   │── setup.md  # Guide d'installation
-│── 📄 README.md  # Documentation principale du projet
-\`\`\`
-
-EOF
 
