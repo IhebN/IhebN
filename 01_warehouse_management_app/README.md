@@ -20,10 +20,4 @@ The system processes over **10,000 transactions per month** and has improved eff
 ![image](https://github.com/user-attachments/assets/102e9794-aaaa-4022-b70d-63cdb3e0ac97)
 ![image](https://github.com/user-attachments/assets/549f85e1-2043-41c9-8dda-2713fa6e92db)
 ![image](https://github.com/user-attachments/assets/92580526-4c86-4b45-8bd2-b1d853ff5537)
-
-
-
-
-
-
 ## 📂 Repository Structure
