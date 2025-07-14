@@ -34,12 +34,7 @@ Designed a hospital pharmacy system schema and compared SQL vs NoSQL databases i
 
 ---
 
-### 🔹 3. Strategic Analysis – CHR Hansen (2025)
-Performed VRIO and Porter's Five Forces analysis to evaluate CHR Hansen’s competitive strategy.  
-✅ Delivered strategic recommendations for innovation and market expansion  
-➡️ [View Project](./03_chr_hansen_strategy)
 
----
 
 ## 📬 Contact
 
