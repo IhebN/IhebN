@@ -1,0 +1,40 @@
+## Objectif
+Mettre en place un réseau avec :
+- 3 switches
+- 1 routeur
+- VLAN pour chaque type d’équipement
+- Inter-VLAN routing avec router-on-a-stick
+- DHCP pour tous les VLAN
+- Accès Wi-Fi via Access Point
+
+## Topologie
+- Switch3, Switch4, Switch5
+- Routeur Cisco 1941
+- Trunks entre les switches
+- Trunk entre Switch4 et Routeur
+
+## VLAN utilisés
+- VLAN 1 : Téléphones IP
+- VLAN 10 : Wi-Fi
+- VLAN 20: PC fixes
+- VLAN 30: Administration
+
+## Étapes réalisées
+1. Câblage du réseau
+2. Création des VLAN
+3. Configuration des ports access
+4. Configuration des trunks
+5. Configuration du routeur (sous-interfaces)
+6. Mise en place du DHCP
+7. Tests :
+   - DHCP
+   - Ping vers la passerelle
+   - Ping entre VLAN
+   - Test Wi-Fi
+
+
+
+## Résultats
+- Tous les équipements reçoivent une adresse IP
+- Communication entre tous les VLAN
+- Réseau fonctionnel
