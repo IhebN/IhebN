@@ -1,0 +1,30 @@
+# Projet Réseau – VLAN & Inter-VLAN Routing
+
+## Objectif
+Mise en place d’un réseau d’entreprise avec :
+- 3 switches
+- 1 routeur
+- VLAN
+- Trunks
+- DHCP
+- Wi-Fi
+
+## Topologie
+Trois bureaux reliés par des switches et un routeur central assurant l’inter-VLAN routing.
+
+## Étapes
+1. Câblage des équipements  
+2. Création des VLAN (1,10,20,30)  
+3. Configuration des ports access  
+4. Configuration des trunks  
+5. Configuration du routeur (Router-on-a-Stick)  
+6. Mise en place du DHCP  
+7. Tests (ping, Wi-Fi, inter-VLAN)
+
+## Résultats
+- Tous les PC reçoivent une IP automatiquement  
+- Le Wi-Fi fonctionne  
+- Les VLAN communiquent entre eux  
+
+## Réaliser par
+Nom : NABLI Iheb
