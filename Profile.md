@@ -19,15 +19,9 @@ This portfolio includes real academic and professional projects involving data a
 
 ## 📁 Projects
 
-### 🔹 1. Warehouse Management App – Draxlmaier Internship (2024)
-A Java-based warehouse management application built during my internship.  
-✅ Improved inventory tracking by 30%  
-✅ Automated manual processes and reduced data errors  
-➡️ [View Project](./01_warehouse_management_app)
-
 ---
 
-### 🔹 2. Infrastructure réseau avec VLAN & Routage Inter-VLAN – Cisco Packet Tracer (2026)
+### 🔹 1. Infrastructure réseau avec VLAN & Routage Inter-VLAN – Cisco Packet Tracer (2026)
 Conception et mise en place d’une infrastructure réseau complète simulée avec Cisco Packet Tracer.  
 ✅ Configuration de plusieurs VLAN (VoIP, Wi-Fi, PC fixes, administration)  
 ✅ Mise en place de liaisons trunk entre les switches  
@@ -41,7 +35,7 @@ Conception et mise en place d’une infrastructure réseau complète simulée av
 
 ## 📬 Contact
 
-- 📍 Barcelona, Spain  
+- 📍 Paris, France  
 - ✉️ ihebnabli@outlook.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/iheb-nabli)
 
