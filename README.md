@@ -27,7 +27,7 @@ A Java-based warehouse management application built during my internship.
 
 ---
 
-### 🔹 3. Infrastructure réseau avec VLAN & Routage Inter-VLAN – Cisco Packet Tracer (2026)
+### 🔹 2. Infrastructure réseau avec VLAN & Routage Inter-VLAN – Cisco Packet Tracer (2026)
 Conception et mise en place d’une infrastructure réseau complète simulée avec Cisco Packet Tracer.  
 ✅ Configuration de plusieurs VLAN (VoIP, Wi-Fi, PC fixes, administration)  
 ✅ Mise en place de liaisons trunk entre les switches  
