@@ -27,13 +27,16 @@ A Java-based warehouse management application built during my internship.
 
 ---
 
-### 🔹 2. Healthcare Database System – Big Data Project (2024)
-Designed a hospital pharmacy system schema and compared SQL vs NoSQL databases in a healthcare context.  
-✅ Focus on data performance, compliance (HIPAA/GDPR), and cloud implementation  
-➡️ [View Project](./02_healthcare_database_project)
+### 🔹 3. Infrastructure réseau avec VLAN & Routage Inter-VLAN – Cisco Packet Tracer (2026)
+Conception et mise en place d’une infrastructure réseau complète simulée avec Cisco Packet Tracer.  
+✅ Configuration de plusieurs VLAN (VoIP, Wi-Fi, PC fixes, administration)  
+✅ Mise en place de liaisons trunk entre les switches  
+✅ Routage inter-VLAN avec la méthode Router-on-a-Stick  
+✅ Configuration du DHCP pour tous les VLAN  
+✅ Déploiement du réseau sans fil via des points d’accès Wi-Fi  
+➡️ [Voir le projet](./03_network_vlan_project)
 
 ---
-
 
 
 ## 📬 Contact
